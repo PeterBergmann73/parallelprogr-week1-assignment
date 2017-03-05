@@ -44,10 +44,21 @@ package object common {
   }
 
   def parallel[A, B, C, D](taskA: => A, taskB: => B, taskC: => C, taskD: => D): (A, B, C, D) = {
-    val ta = task { taskA }
-    val tb = task { taskB }
-    val tc = task { taskC }
-    val td = taskD
+    val ta: ForkJoinTask[A] = task { taskA }
+    val tb: ForkJoinTask[B] = task { taskB }
+    val tc: ForkJoinTask[C] = task { taskC }
+    val td: D = taskD
     (ta.join(), tb.join(), tc.join(), td)
+  }
+
+
+  def parallel[A, B](ls: List[A])(f: => A => B): List[B] = {
+    ls match {
+      case Nil => List[B]()
+      case h::t =>
+        val tasks1: List[ForkJoinTask[B]] = t.map(v => task(f(v)))
+        val headTask: B = f(h)
+        headTask +: tasks1.map(_.join)
+    }
   }
 }

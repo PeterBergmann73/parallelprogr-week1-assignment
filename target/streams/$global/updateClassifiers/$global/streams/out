@@ -10,7 +10,7 @@
 [debug] == resolving dependencies for parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT [compile]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@614dfeae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d11015d
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -19,7 +19,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ed57852
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f86d28e
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.4
 [debug] 	found org.scalatest#scalatest_2.11;2.2.4 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
@@ -27,7 +27,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [compile->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@106d1f26
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f5ff793
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.2
 [debug] 	found org.scala-lang#scala-reflect;2.11.2 in sbt-chain
 [debug] 	[2.11.2] org.scala-lang#scala-reflect;2.11.2
@@ -36,7 +36,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [compile->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@762b0917
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11d1803b
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
@@ -44,7 +44,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->default(compile)]
 [info] Resolving com.storm-enroute#scalameter-core_2.11;0.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ca1728f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5891a1bf
 [debug] sbt-chain: module revision found in cache: com.storm-enroute#scalameter-core_2.11;0.6
 [debug] 	found com.storm-enroute#scalameter-core_2.11;0.6 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->runtime]
@@ -52,7 +52,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42679ce9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2df98100
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.2
 [debug] 	found org.apache.commons#commons-math3;3.2 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->runtime]
@@ -60,7 +60,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@352a17ca
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62ae1740
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime]
@@ -68,7 +68,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->default(compile)]
 [info] Resolving com.github.scala-blitz#scala-blitz_2.11;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58fbb956
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d2b3370
 [debug] sbt-chain: module revision found in cache: com.github.scala-blitz#scala-blitz_2.11;1.1
 [debug] 	found com.github.scala-blitz#scala-blitz_2.11;1.1 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->runtime]
@@ -76,7 +76,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-swing_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a08d849
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ce7a5cf
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-swing_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-swing_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [compile->runtime]
@@ -271,7 +271,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->default(compile)]
 [info] Resolving junit#junit;4.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@532b9960
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d324a71
 [debug] sbt-chain: module revision found in cache: junit#junit;4.10
 [debug] 	found junit#junit;4.10 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->runtime]
@@ -279,7 +279,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a96ff8c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67830661
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.1
 [debug] 	found org.hamcrest#hamcrest-core;1.1 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->runtime]
@@ -287,7 +287,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->default(compile)]
 [info] Resolving com.storm-enroute#scalameter_2.11;0.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1411f381
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@579f71eb
 [debug] sbt-chain: module revision found in cache: com.storm-enroute#scalameter_2.11;0.6
 [debug] 	found com.storm-enroute#scalameter_2.11;0.6 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->runtime]
@@ -295,7 +295,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->default(compile)]
 [info] Resolving com.github.wookietreiber#scala-chart_2.11;0.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c703a40
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38f2e965
 [debug] sbt-chain: module revision found in cache: com.github.wookietreiber#scala-chart_2.11;0.4.2
 [debug] 	found com.github.wookietreiber#scala-chart_2.11;0.4.2 in sbt-chain
 [debug] 	[0.4.2] com.github.wookietreiber#scala-chart_2.11;0.4.2
@@ -304,7 +304,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->default(compile)]
 [info] Resolving org.jfree#jfreechart;1.0.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ef7c073
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45e6c8c0
 [debug] sbt-chain: module revision found in cache: org.jfree#jfreechart;1.0.17
 [debug] 	found org.jfree#jfreechart;1.0.17 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->runtime]
@@ -312,7 +312,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->default(compile)]
 [info] Resolving org.jfree#jcommon;1.0.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@732b9d1d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b57995a
 [debug] sbt-chain: module revision found in cache: org.jfree#jcommon;1.0.21
 [debug] 	found org.jfree#jcommon;1.0.21 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->runtime]
@@ -320,7 +320,7 @@
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->master]
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test->default(compile)]
 [info] Resolving xml-apis#xml-apis;1.3.04 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a5ef960
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56d046ed
 [debug] sbt-chain: module revision found in cache: xml-apis#xml-apis;1.3.04
 [debug] 	found xml-apis#xml-apis;1.3.04 in sbt-chain
 [debug] == resolving dependencies parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test->runtime]
@@ -821,7 +821,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 1060ms :: artifacts dl 52ms
+[debug] :: resolution report :: resolve 197ms :: artifacts dl 13ms
 [debug] 	report for parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT compile produced in /home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week1/assignment/scalashop/scalashop/target/resolution-cache/reports/parprog1-scalashop-parprog1-scalashop$sources_2.11-compile.xml
 [debug] 	report for parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT runtime produced in /home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week1/assignment/scalashop/scalashop/target/resolution-cache/reports/parprog1-scalashop-parprog1-scalashop$sources_2.11-runtime.xml
 [debug] 	report for parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT test produced in /home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week1/assignment/scalashop/scalashop/target/resolution-cache/reports/parprog1-scalashop-parprog1-scalashop$sources_2.11-test.xml
@@ -835,4 +835,4 @@
 [debug] 	report for parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT docs produced in /home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week1/assignment/scalashop/scalashop/target/resolution-cache/reports/parprog1-scalashop-parprog1-scalashop$sources_2.11-docs.xml
 [debug] 	report for parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT pom produced in /home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week1/assignment/scalashop/scalashop/target/resolution-cache/reports/parprog1-scalashop-parprog1-scalashop$sources_2.11-pom.xml
 [debug] 	report for parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT scala-tool produced in /home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week1/assignment/scalashop/scalashop/target/resolution-cache/reports/parprog1-scalashop-parprog1-scalashop$sources_2.11-scala-tool.xml
-[debug] 	resolve done (1060ms resolve - 52ms download)
+[debug] 	resolve done (197ms resolve - 13ms download)

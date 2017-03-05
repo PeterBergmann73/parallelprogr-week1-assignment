@@ -1188,9 +1188,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#cache;0.13.9!cache.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.9!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.9!apply-macro.jar
-[debug] :: resolution report :: resolve 1032ms :: artifacts dl 32ms
+[debug] :: resolution report :: resolve 734ms :: artifacts dl 22ms
 [debug] 	report for parprog1-scalashop#parprog1-scalashop$sbt_2.11;0.1-SNAPSHOT default produced in /home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week1/assignment/scalashop/scalashop/target/resolution-cache/reports/parprog1-scalashop-parprog1-scalashop$sbt_2.11-default.xml
-[debug] 	resolve done (1032ms resolve - 32ms download)
+[debug] 	resolve done (734ms resolve - 22ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT
 [debug] 	confs: [default]
@@ -1747,6 +1747,6 @@
 [debug] 	[NOT REQUIRED] org.scalaj#scalaj-http_2.10;2.2.1!scalaj-http_2.10.jar(src)
 [debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.10!commons-codec.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.4!commons-lang3.jar(src)
-[debug] :: resolution report :: resolve 122ms :: artifacts dl 17ms
+[debug] :: resolution report :: resolve 327ms :: artifacts dl 17ms
 [debug] 	report for parprog1-scalashop#parprog1-scalashop$sources_2.11;0.1-SNAPSHOT default produced in /home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week1/assignment/scalashop/scalashop/target/resolution-cache/reports/parprog1-scalashop-parprog1-scalashop$sources_2.11-default.xml
-[debug] 	resolve done (122ms resolve - 17ms download)
+[debug] 	resolve done (327ms resolve - 17ms download)
