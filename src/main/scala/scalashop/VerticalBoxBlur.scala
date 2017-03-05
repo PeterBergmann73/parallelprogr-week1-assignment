@@ -83,7 +83,7 @@ object VerticalBoxBlur {
     val width = src.width
     val bounds: List[(Int, Int)] = BoxBlurUtils.bounds(size = width, numTasks = numTasks)
 
-    parallel(bounds) {
+    BoxBlurUtils.parallel(bounds) {
       case (f, e) =>
         blur(src = src, dst = dst, from = f, end = e, radius = radius)
     }

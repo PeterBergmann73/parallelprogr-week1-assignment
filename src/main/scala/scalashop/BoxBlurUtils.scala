@@ -1,5 +1,9 @@
 package scalashop
 
+import java.util.concurrent.ForkJoinTask
+import common._
+
+
 /**
   * Created by slava on 05.03.17.
   */
@@ -25,6 +29,17 @@ object BoxBlurUtils {
       s"source width ${src.width} and destination width ${dst.width} do not match")
 
     require(src.height == dst.height, "different heights")
+  }
+
+
+  def parallel[A, B](ls: List[A])(f: => A => B): List[B] = {
+    ls match {
+      case Nil => List[B]()
+      case h::t =>
+        val tasks1: List[ForkJoinTask[B]] = t.map(v => task(f(v)))
+        val headTask: B = f(h)
+        headTask +: tasks1.map(_.join)
+    }
   }
 
 }

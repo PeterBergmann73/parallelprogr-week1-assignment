@@ -4,7 +4,7 @@
 		module="parprog1-scalashop$sources_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170305100455"
+		publication="20170305214025"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

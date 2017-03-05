@@ -82,7 +82,7 @@ object HorizontalBoxBlur {
     val height = src.height
     val bounds: List[(Int, Int)] = BoxBlurUtils.bounds(size = height, numTasks = numTasks)
 
-    parallel(bounds) {
+    BoxBlurUtils.parallel(bounds) {
       case (f, e) =>
         blur(src = src, dst = dst, from = f, end = e, radius = radius)
     }
