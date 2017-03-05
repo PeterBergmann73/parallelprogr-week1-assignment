@@ -74,7 +74,7 @@ package object scalashop {
         r += red(pixel)
         g += green(pixel)
         b += blue(pixel)
-        a += blue(pixel)
+        a += alpha(pixel)
 
         yc += 1
       }
