@@ -4,7 +4,7 @@
 		module="parprog1-scalashop$sbt_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170305214023"
+		publication="20170306123944"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
